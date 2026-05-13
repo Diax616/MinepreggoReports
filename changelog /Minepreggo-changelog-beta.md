@@ -40,7 +40,6 @@
     - Capped the baby trade uses.
     - The trading rewards for the Baby Ender Dragon have been reduced.
 - **[Misc]** 
-    - Breast milk trades are getting removed.
     - It now needs at least two exhausted trades before he can reset his offers.
     - Villager Brain trades are getting removed.
 ### AI and Behaviour
